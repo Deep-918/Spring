@@ -1,0 +1,6 @@
+applications:
+- name: spring-boot-pcf-begin
+  instances: 1
+  host: spring-boot-pcf-begin-uni
+  path: target\demo1-0.0.1-SNAPSHOT.jar
+ 
